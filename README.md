@@ -15,6 +15,8 @@ Enhancing security monitoring within a cloud environment by leveraging Microsoft
 <h2>Environments Used </h2>
 
 - <b>Windows 11 Pro</b> (22H2)
+- <b>Linux Ubuntu</b>
+- <b>Azure Sentinel<b>
 
 <h2>Program walk-through:</h2>
 
